@@ -53,7 +53,7 @@ It is aimed at beginners learning **Python for Data Science / Machine Learning**
 ### Open in Google Colab
 Click below to run the notebook in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/numpy_functions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dA_D0yCetWshLNUvQ5ihXxz4Xv3mXDCu)
 
 ---
 
