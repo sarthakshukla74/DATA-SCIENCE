@@ -1,0 +1,36 @@
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_checkpoints.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.dll
+
+# Colab / Jupyter runtime
+*.log
+*.out
+*.err
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# Colab config
+.colab/
